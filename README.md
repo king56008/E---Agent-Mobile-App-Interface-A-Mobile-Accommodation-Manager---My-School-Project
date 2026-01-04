@@ -1,2 +1,2 @@
 # E-Agent-Project
-A mobile app for find accomodation for students in an area 
+A mobile app for finding accomodation for students in an area 
